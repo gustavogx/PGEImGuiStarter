@@ -1,0 +1,9 @@
+[submodule "modules/olcPGEDearImGui"]
+	path = modules/olcPGEDearImGui
+	url = https://github.com/dandistine/olcPGEDearImGui
+[submodule "modules/olcPixelGameEngine"]
+	path = modules/olcPixelGameEngine
+	url = https://github.com/OneLoneCoder/olcPixelGameEngine
+[submodule "modules/imgui"]
+	path = modules/imgui
+	url = https://github.com/ocornut/imgui
