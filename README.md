@@ -11,7 +11,8 @@ Don't forget to clone the submodules as well:
     git clone --recurse-submodules https://github.com/gustavogx/olcPGEDearImGui 
 
 Under linux, you may compile it like this:
-$g++ -o example \
+
+$ g++ -o example \
     example.cpp \
     modules/imgui/imgui.cpp \
     modules/imgui/imgui_demo.cpp \
