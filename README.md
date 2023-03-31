@@ -8,7 +8,7 @@ and all requirements therein, such as an OpenGL implementation (like mesa).
 
 Don't forget to clone the submodules as well:
 
-    git clone --recurse-submodules https://github.com/gustavogx/olcPGEDearImGui 
+    git clone --recurse-submodules https://github.com/gustavogx/PGEImGuiStarter 
 
 Under linux, you may compile it like this:
 
